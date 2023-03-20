@@ -1,1 +1,4 @@
-"# projeto_POO" 
+Projeto_POO
+
+Trabalho prático realizado na disciplina de Programação Orientada a Objetos.
+
