@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=
+comment1.target=java.util.Scanner\ gvInput()
+comment2.params=opcoes
+comment2.target=Menu(java.lang.String[])
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ NewMenu\r\n
+comment3.params=
+comment3.target=void\ run()
+comment3.text=\r\n\ Correr\ o\ NewMenu.\r\n\r\n\ Termina\ com\ a\ op\u00E7\u00E3o\ 0\ (zero).\r\n
+comment4.params=i\ b
+comment4.target=void\ setPreCondition(int,\ Menu.PreCondition)
+comment4.text=\r\n\ M\u00E9todo\ que\ regista\ uma\ uma\ pr\u00E9-condi\u00E7\u00E3o\ numa\ op\u00E7\u00E3o\ do\ NewMenu.\r\n\r\n\ @param\ i\ \u00EDndice\ da\ op\u00E7\u00E3o\ (come\u00E7a\ em\ 1)\r\n\ @param\ b\ pr\u00E9-condi\u00E7\u00E3o\ a\ registar\r\n
+comment5.params=i\ h
+comment5.target=void\ setHandler(int,\ Menu.Handler)
+comment5.text=\r\n\ M\u00E9todo\ para\ registar\ um\ handler\ numa\ op\u00E7\u00E3o\ do\ NewMenu.\r\n\r\n\ @param\ i\ indice\ da\ op\u00E7\u00E3o\ \ (come\u00E7a\ em\ 1)\r\n\ @param\ h\ handlers\ a\ registar\r\n
+comment6.params=
+comment6.target=void\ show()
+comment6.text=Apresentar\ o\ NewMenu
+comment7.params=
+comment7.target=int\ readOption()
+comment7.text=Ler\ uma\ op\u00E7\u00E3o\ v\u00E1lida
+numComments=8
